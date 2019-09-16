@@ -8,8 +8,8 @@
   border-radius: 3px;
 }
 
-.Pokecard-img {
-  width: 50px;
+img {
+  width: 100px;
 }
 
 .Pokecard-data {
